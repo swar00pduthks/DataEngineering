@@ -71,6 +71,6 @@ we will use Python to build our ETL pipeline as this is new language which provi
 ## Getting Started
 1. go to terminal run the below command to create database and required tables 
 
-![create_tables](/images/Create_tables.png)
+![create_tables](/images/create_tables.png)
 
 ![ETL](/images/etl.png)
