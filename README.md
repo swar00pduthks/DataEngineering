@@ -46,9 +46,9 @@ we decided to build the database using PostgreSQL. As it is open source Database
 
 * conceptual modelling
 As part of the data modelling excersie we identified following entities to be required
-1. Song
-2. user
-3. Artist 
+1. Songs
+2. users
+3. Artists 
 4. time 
 
 Then we decided to build the data model using star schema as this is best model faster analytical capabilities for adhoc queries and also best suited for analysis. 
