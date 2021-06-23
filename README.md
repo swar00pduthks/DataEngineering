@@ -67,3 +67,4 @@ we will use Python to build our ETL pipeline as this is new language which provi
 * [Python](https://www.python.org/)
 * [PostgreSQL](https://www.postgresql.org/)
 
+
